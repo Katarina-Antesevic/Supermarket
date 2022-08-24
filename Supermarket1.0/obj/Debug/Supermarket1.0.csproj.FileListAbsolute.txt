@@ -1,0 +1,92 @@
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\Supermarket1.0.exe.config
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\Supermarket1.0.exe
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\Supermarket1.0.pdb
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1.0.csproj.AssemblyReference.cache
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.Properties.Resources.resources
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1.0.csproj.GenerateResource.cache
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1.0.csproj.CoreCompileInputs.cache
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1.0.exe
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1.0.pdb
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.ProductForm.resources
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.StartPageForm.resources
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.CategoriesForm.resources
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\CircularProgressBar.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\WinFormAnimation.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\CircularProgressBar.xml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.StartForm.resources
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.SellerssForm.resources
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.SellingForm.resources
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.BillsForm.resources
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\BouncyCastle.Crypto.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\Google.Protobuf.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Compression.LZ4.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Hash.xxHash.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\MySql.Data.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\System.Buffers.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\System.Memory.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\System.Numerics.Vectors.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\Ubiety.Dns.Core.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\ZstdNet.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\Google.Protobuf.pdb
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\Google.Protobuf.xml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Compression.LZ4.xml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Hash.xxHash.xml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\MySql.Data.xml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\System.Buffers.xml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\System.Memory.xml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\System.Numerics.Vectors.xml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.ProducerForm.resources
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.SupplierForm.resources
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\itextsharp.dll
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\bin\Debug\itextsharp.xml
+D:\4.godina\INTERAKCIJA ČOVJEK-RAČUNAR\drugi projekat\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.ExEmployeesForm.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\Supermarket1.0.exe.config
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\Supermarket1.0.exe
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\Supermarket1.0.pdb
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\CircularProgressBar.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\Google.Protobuf.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\itextsharp.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\MySql.Data.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\System.Buffers.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\System.Memory.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\WinFormAnimation.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\ZstdNet.dll
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\CircularProgressBar.xml
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\Google.Protobuf.pdb
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\Google.Protobuf.xml
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\itextsharp.xml
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\MySql.Data.xml
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\System.Buffers.xml
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\System.Memory.xml
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1.0.csproj.AssemblyReference.cache
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.BillsForm.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.CategoriesForm.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.ExEmployeesForm.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.ProducerForm.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.ProductForm.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.SellerssForm.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.SellingForm.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.StartForm.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.StartPageForm.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.Properties.Resources.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1._0.SupplierForm.resources
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1.0.csproj.GenerateResource.cache
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1.0.csproj.CoreCompileInputs.cache
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1.0.exe
+C:\Users\AcerAspireE5\Desktop\Supermarket1.0\Supermarket1.0\obj\Debug\Supermarket1.0.pdb
